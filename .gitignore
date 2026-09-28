@@ -1,0 +1,11 @@
+# Executable files
+*.exe
+*.out
+
+# Environment variables
+.env
+
+# VS Code & OS settings
+.vscode/
+.DS_Store
+Thumbs.db
